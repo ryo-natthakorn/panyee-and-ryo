@@ -22,7 +22,7 @@
             <div class="h-[1px] w-20 bg-rose-300 mx-auto mb-4"></div>
             <p class="text-lg">12 ธันวาคม 2024</p>
         </div>
-        <div class="absolute inset-0 opacity-30 bg-[url('https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80')] bg-cover bg-center"></div>
+        <div class="absolute inset-0 opacity-30 bg-[url('hero.webp')] bg-cover bg-center"></div>
     </section>
 
     <section class="py-16 px-6 text-center" data-aos="fade-up">
@@ -34,8 +34,8 @@
     <section class="py-16 px-6 bg-white" data-aos="fade-up">
         <h2 class="text-2xl text-center mb-8">สถานที่จัดงาน</h2>
         <div class="max-w-md mx-auto rounded-2xl overflow-hidden shadow-lg">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.55!2d100.5!3d13.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDQyJzAwLjAiTiAxMDDCsDMwJzAwLjAiRQ!5e0!3m2!1sth!2sth!4v123456789" 
-                    width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d968.4761149953177!2d100.64758626956385!3d13.844773099159797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d632846750029%3A0xdb609a0841af2afe!2sSailom%20Sangdad%20Homey%20Studio!5e0!3m2!1sen!2sth!4v1767859579867!5m2!1sen!2sth" 
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="mt-6 text-center">
             <p>โรงแรมแกรนด์ พาเลซ กรุงเทพฯ</p>
